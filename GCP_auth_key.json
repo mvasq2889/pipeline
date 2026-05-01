@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "lsst-hackathon",
+  "private_key_id": "cc3ffb06d7590b4c28397c04da72211b93024029",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCu/jLKs/9/fvzu\nF5QYj7RnddFUOjauqqqrJKL6jclxoBGa/8KlLKK+Tud9Hof0Y0GXIhIGQ7FXTwAs\n4q47HgnXv+GNH+Z045hmCpTpjhBKUH2oE4Tv/8IFDxn+GSAnbW7igOJsfmw4Dyvu\nEe73bY135Ex4cKCT+hcuX/LgUxCtsrDZYXOXBGp0snQPL6oLL+aMK1rabmxqgTQR\nsz57kqwfcW8SsX/QhdXy+pLPf65Z1dxP8SthZYPDwoT88wzxIpaJXE8gdLV5xTzP\nTKUOcFwzgkFU1xXcOV/vSyKBLzNVmKqdvV0QAuHrgAcS39tJ7s0EpeQLodfDHHfe\nUZNeDFXHAgMBAAECggEAB4ZWFlkYq5mdiZb+ooETbr8J4vkyvsIHUPRydht5m0pu\nOu4mGRv1sjnuJiH49funGSjyAbHXtLRonvdEY9IqhC+B+jGrFSTFnWzK1rGGZngd\nmAgTSTjnqwYFxf+8JTlv/4r2lR8T546LAvAOQYvvqGHOrOMoRk2UpO+/9R09SZVr\nKF4rfUC0d6M86/1KYqtnZ0nq297dh+VObwkwklk7CNauVfwpARIchpfWfPEMjQ6u\nOd06xD4s202KDfZ9SrrcLqNSRV4PpRrj87ChDOXJt/+T/Ci3WMbdnLXC1TTyQ9sL\ngXH9H6a50mmdzV6jMxNHIqJLdZNBWqywp1Y9xAyPEQKBgQDdFZcj/iOwqoT/w1iB\nUwBW6NUpi7X/HbPNGSNPL2vR8L67tZgP8PoXzhf6nOxTX+KKh2Nk70GONfyytcIi\nSbu48GVarcC3q+9lNHscFImc9lBfzbDqtzojzlJsmV7/YGwyg4g9xSzBSGG4KKNu\n2l7JFMBbDOlJcPUf6/sYPLBI7wKBgQDKoSPXuCZdmwHj//qiPPGcafoObHNSMMcN\nxj2ByQFkF8qliSR4WdZuNe4iUOsNjMyTRUmeDzhMbM1HPFTi/kW6CyV73BQpHr8G\nniWjFJfPjzKCHkkBae+lQqEpRDLNpfuQWk5yCnGf3NAlMzZJGC49wqYmYj990xK+\nSBdWUDbQqQKBgEwJfO34HjZIr213thzkex1o/sdHMdUIViqYFrjJSn/uGOteTWpO\nKvW9ACpFhlI2jCew4NJ6J0XN85dTQ+2fBl1Y8ML7N2j0TWW1YxIJTjsZzBLnH43a\nbriZ4WdQaIfUleHZsyXrhrUDO/imoW8i06684FtwWVvU6bmM49M2LDspAoGBAMU7\n9NeVuEKFD2IPWLdy+vt1bKF9jwMB17/gpx4duezj+60FwSokyESe2h0tBp853ie7\n2dywk+xQO8CLSVVqjBR7pRDbOASOmQKoDZqgAOVYTaG6OPXXWB1UreqtJ4ZlemkY\nfiMjZ1ZkaXbMUprzno8fWPsjxwmC20u8gHrTuYeBAoGACu6M3vinXpac29SCNuyM\no3xMCQNLcisl/NpiN+6pD8ZJEckVW5yKI8sq+DlCoDFWFHNgXTuigv1ieBL0gZc5\np8zcuXQdrUP6SzyCFUxVFtoyISOoEByKsXat5wp+wXDoQ8s2098Fig5m6naIwlcB\nCRuZg4mNtv7VlCie8LcLuQs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mvale2889@lsst-hackathon.iam.gserviceaccount.com",
+  "client_id": "101008934097496110041",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mvale2889%40lsst-hackathon.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
