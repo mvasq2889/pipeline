@@ -1,0 +1,54 @@
+{
+   "data": {
+      "type": "locus",
+      "relationships": {
+         "alerts": {
+            "links": {
+               "related": "http://api.antares.noirlab.edu/v1/loci/ANT2019ai/alerts"
+            }
+         }
+      },
+      "attributes": {
+         "dec": -18.8080976,
+         "tags": [],
+         "lightcurve": "time,alert_id,ant_mjd,ant_survey,ant_ra,ant_dec,ant_passband,ant_mag,ant_magerr,ant_maglim,ant_mag_corrected,ant_magerr_corrected\n2019-12-12 04:59:36.997443,ztf_upper_limit:ZTF19adcghqc-1075208061815,58829.20806710003,2,,,R,,,17.933900833129883,,\n2019-12-16 01:40:38.003540,ztf_upper_limit:ZTF19adcghqc-1079069881815,58833.06988430023,2,,,R,,,19.14539909362793,,\n2019-12-16 03:01:29.000644,ztf_upper_limit:ZTF19adcghqc-1079126031815,58833.126030100044,2,,,g,,,19.82029914855957,,\n2019-12-20 02:01:47.003537,ztf_upper_limit:ZTF19adcghqc-1083084571815,58837.084571800195,2,,,R,,,19.767200469970703,,\n2019-12-20 02:33:48.997457,ztf_upper_limit:ZTF19adcghqc-1083106811815,58837.1068171002,2,,,g,,,19.875099182128906,,\n2019-12-23 02:13:10.997775,ztf_upper_limit:ZTF19adcghqc-1086092481815,58840.09248840017,2,,,R,,,16.42449951171875,,\n2019-12-23 02:35:28.996794,ztf_upper_limit:ZTF19adcghqc-1086107971815,58840.10797449993,2,,,g,,,16.571300506591797,,\n2019-12-30 01:49:03.996491,ztf_candidate:1093075741815010047,58847.07574070012,1,4.1524501,-18.8080976,R,17.16849708557129,0.06681208312511444,19.042919158935547,,\n",
+         "properties": {
+            "ztf_object_id": "ZTF19adcghqc",
+            "ztf_ssnamenr": "null",
+            "num_alerts": 8,
+            "num_mag_values": 1,
+            "oldest_alert_id": "ztf_candidate:1093075741815010047",
+            "oldest_alert_magnitude": 17.16849708557129,
+            "oldest_alert_observation_time": 58847.07574070012,
+            "newest_alert_id": "ztf_candidate:1093075741815010047",
+            "newest_alert_magnitude": 17.16849708557129,
+            "newest_alert_observation_time": 58847.07574070012,
+            "brightest_alert_id": "ztf_candidate:1093075741815010047",
+            "brightest_alert_magnitude": 17.16849708557129,
+            "brightest_alert_observation_time": 58847.07574070012
+         },
+         "catalogs": [],
+         "ra": 4.1524501,
+         "grav_wave_events": []
+      },
+      "meta": {
+         "coordinates": {
+            "icrs": {
+               "ra": 4.1524501,
+               "dec": -18.8080976
+            },
+            "galactic": {
+               "l": 77.20945936666952,
+               "b": -78.45442250893683
+            }
+         }
+      },
+      "id": "ANT2019ai",
+      "links": {
+         "self": "http://api.antares.noirlab.edu/v1/loci/ANT2019ai"
+      }
+   },
+   "links": {
+      "self": "http://api.antares.noirlab.edu/v1/loci/ANT2019ai"
+   }
+}

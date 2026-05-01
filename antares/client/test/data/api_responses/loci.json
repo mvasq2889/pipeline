@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            "type": "locus_listing",
+            "relationships": {
+                "alerts": {
+                    "links": {
+                        "related": "https://api.antares.noirlab.edu/v1/loci/ANT2019ae/alerts"
+                    }
+                },
+                "locus": {
+                    "links": {
+                        "related": "https://api.antares.noirlab.edu/v1/loci/ANT2019ae"
+                    }
+                }
+            },
+            "attributes": {
+                "tags": [
+                    "hello"
+                ],
+                "properties": {
+                    "ztf_object_id": "ZTF18acszjan",
+                    "num_alerts": 9,
+                    "num_mag_values": 2,
+                    "newest_alert_id": "ztf_candidate:1069343660015010008",
+                    "brightest_alert_id": "ztf_candidate:1069343660015010008",
+                    "foo": 12345,
+                    "a_keyword_property": "X"
+                },
+                "dec": -5.0755235,
+                "htm16": 36562722751,
+                "catalogs": [],
+                "ra": 89.2298749
+            },
+            "meta": {
+                "explanation": {
+                    "value": 1.0,
+                    "description": "*:*",
+                    "details": []
+                }
+            },
+            "id": "ANT2019ae"
+        },
+        {
+            "type": "locus_listing",
+            "relationships": {
+                "alerts": {
+                    "links": {
+                        "related": "https://api.antares.noirlab.edu/v1/loci/ANT2019ai/alerts"
+                    }
+                },
+                "locus": {
+                    "links": {
+                        "related": "https://api.antares.noirlab.edu/v1/loci/ANT2019ai"
+                    }
+                }
+            },
+            "attributes": {
+                "tags": [
+                    "hello"
+                ],
+                "properties": {
+                    "ztf_object_id": "ZTF17aaatvny",
+                    "num_alerts": 9,
+                    "num_mag_values": 7,
+                    "newest_alert_id": "ztf_candidate:1069343660115010015",
+                    "brightest_alert_id": "ztf_candidate:1040272480115010014",
+                    "foo": 12345,
+                    "a_keyword_property": "X"
+                },
+                "dec": -5.4168526,
+                "htm16": 36564311706,
+                "catalogs": [],
+                "ra": 88.0324171
+            },
+            "meta": {
+                "explanation": {
+                    "value": 1.0,
+                    "description": "*:*",
+                    "details": []
+                }
+            },
+            "id": "ANT2019ai"
+        }
+    ],
+    "links": {
+        "self": "https://api.antares.noirlab.edu/v1/loci"
+    },
+    "meta": {
+        "count": 2
+    }
+}

@@ -1,0 +1,181 @@
+{
+  "data": [
+    {
+      "type": "alert",
+      "attributes": {
+        "grav_wave_events": [
+          {
+            "gracedb_id": "S251116ab",
+            "contour_level": 99.10975082635525,
+            "contour_area": 12498.760964484698
+          },
+          {
+            "gracedb_id": "S251116dy",
+            "contour_level": 26.423063078960475,
+            "contour_area": 3292.548970163408
+          },
+          {
+            "gracedb_id": "S251116ee",
+            "contour_level": 98.77537342453199,
+            "contour_area": 10927.603260649394
+          },
+          {
+            "gracedb_id": "S251117m",
+            "contour_level": 96.90941245411571,
+            "contour_area": 5593.0528516872155
+          },
+          {
+            "gracedb_id": "S251117ac",
+            "contour_level": 93.220092121781,
+            "contour_area": 25584.188186972002
+          },
+          {
+            "gracedb_id": "S251117bc",
+            "contour_level": 99.21255297842228,
+            "contour_area": 17725.88178685985
+          },
+          {
+            "gracedb_id": "S251117bq",
+            "contour_level": 99.26885837873668,
+            "contour_area": 5250.62104444106
+          },
+          {
+            "gracedb_id": "S251117cv",
+            "contour_level": 48.64030518909609,
+            "contour_area": 6005.985325131111
+          },
+          {
+            "gracedb_id": "S251118ab",
+            "contour_level": 69.41826500903029,
+            "contour_area": 2315.6111671376098
+          },
+          {
+            "gracedb_id": "S251117dq",
+            "contour_level": 4.622394909226212,
+            "contour_area": 17.690736365466627
+          }
+        ],
+        "processed_at": "2025-11-25T19:54:40.075000",
+        "properties": {
+          "lsst_diaSource_diaSourceId": 169650292749500483,
+          "lsst_diaSource_visit": 2025112400347,
+          "lsst_diaSource_detector": 108,
+          "lsst_diaSource_diaObjectId": 169650292749500483,
+          "lsst_diaSource_ssObjectId": 0,
+          "lsst_diaSource_parentDiaSourceId": 0,
+          "lsst_diaSource_midpointMjdTai": 61004.304272505644,
+          "lsst_diaSource_ra": 57.03204245956507,
+          "lsst_diaSource_raErr": 2.3726021026959643e-05,
+          "lsst_diaSource_dec": -49.73624312694643,
+          "lsst_diaSource_decErr": 6.428394408430904e-05,
+          "lsst_diaSource_ra_dec_Cov": -7.038106208945294e-10,
+          "lsst_diaSource_x": 1954.5567626953125,
+          "lsst_diaSource_xErr": 0.5617740750312805,
+          "lsst_diaSource_y": 3350.479736328125,
+          "lsst_diaSource_yErr": 1.2085286378860474,
+          "lsst_diaSource_centroid_flag": false,
+          "lsst_diaSource_apFlux": -774.6649169921875,
+          "lsst_diaSource_apFluxErr": 1081.5596923828125,
+          "lsst_diaSource_apFlux_flag": false,
+          "lsst_diaSource_apFlux_flag_apertureTruncated": false,
+          "lsst_diaSource_isNegative": false,
+          "lsst_diaSource_snr": 6.163743495941162,
+          "lsst_diaSource_psfFlux": 3473.962646484375,
+          "lsst_diaSource_psfFluxErr": 613.9005126953125,
+          "lsst_diaSource_psfChi2": 1895.790283203125,
+          "lsst_diaSource_psfNdata": 1681,
+          "lsst_diaSource_psfFlux_flag": false,
+          "lsst_diaSource_psfFlux_flag_edge": false,
+          "lsst_diaSource_psfFlux_flag_noGoodPixels": false,
+          "lsst_diaSource_trail_flag_edge": false,
+          "lsst_diaSource_dipoleNdata": 0,
+          "lsst_diaSource_scienceFlux": 47776.70703125,
+          "lsst_diaSource_scienceFluxErr": 596.9348754882812,
+          "lsst_diaSource_forced_PsfFlux_flag": false,
+          "lsst_diaSource_forced_PsfFlux_flag_edge": false,
+          "lsst_diaSource_forced_PsfFlux_flag_noGoodPixels": false,
+          "lsst_diaSource_templateFlux": 44127.73046875,
+          "lsst_diaSource_templateFluxErr": 62.515281677246094,
+          "lsst_diaSource_ixxPSF": 0.3610202670097351,
+          "lsst_diaSource_iyyPSF": 0.6463597416877747,
+          "lsst_diaSource_ixyPSF": -0.0443364754319191,
+          "lsst_diaSource_shape_flag": true,
+          "lsst_diaSource_shape_flag_no_pixels": false,
+          "lsst_diaSource_shape_flag_not_contained": false,
+          "lsst_diaSource_shape_flag_parent_source": false,
+          "lsst_diaSource_reliability": 0.4717160761356354,
+          "lsst_diaSource_band": "z",
+          "lsst_diaSource_isDipole": false,
+          "lsst_diaSource_dipoleFitAttempted": false,
+          "lsst_diaSource_timeProcessedMjdTai": 61004.306075399916,
+          "lsst_diaSource_bboxSize": 22,
+          "lsst_diaSource_pixelFlags": false,
+          "lsst_diaSource_pixelFlags_bad": false,
+          "lsst_diaSource_pixelFlags_cr": false,
+          "lsst_diaSource_pixelFlags_crCenter": false,
+          "lsst_diaSource_pixelFlags_edge": false,
+          "lsst_diaSource_pixelFlags_nodata": false,
+          "lsst_diaSource_pixelFlags_nodataCenter": false,
+          "lsst_diaSource_pixelFlags_interpolated": false,
+          "lsst_diaSource_pixelFlags_interpolatedCenter": false,
+          "lsst_diaSource_pixelFlags_offimage": false,
+          "lsst_diaSource_pixelFlags_saturated": false,
+          "lsst_diaSource_pixelFlags_saturatedCenter": false,
+          "lsst_diaSource_pixelFlags_suspect": false,
+          "lsst_diaSource_pixelFlags_suspectCenter": false,
+          "lsst_diaSource_pixelFlags_streak": false,
+          "lsst_diaSource_pixelFlags_streakCenter": false,
+          "lsst_diaSource_pixelFlags_injected": false,
+          "lsst_diaSource_pixelFlags_injectedCenter": false,
+          "lsst_diaSource_pixelFlags_injected_template": false,
+          "lsst_diaSource_pixelFlags_injected_templateCenter": false,
+          "lsst_diaSource_glint_trail": false,
+          "lsst_diaObject_diaObjectId": 169650292749500483,
+          "lsst_diaObject_validityStartMjdTai": 61004.30611645148,
+          "lsst_diaObject_ra": 57.03204245956506,
+          "lsst_diaObject_raErr": 2.3726021026959643e-05,
+          "lsst_diaObject_dec": -49.736243126946434,
+          "lsst_diaObject_decErr": 6.428394408430904e-05,
+          "lsst_diaObject_ra_dec_Cov": -7.038106208945294e-10,
+          "lsst_diaObject_z_psfFluxMean": 3473.962646484375,
+          "lsst_diaObject_z_psfFluxMeanErr": 613.9005126953125,
+          "lsst_diaObject_z_psfFluxNdata": 1,
+          "lsst_diaObject_z_scienceFluxMean": 47776.703125,
+          "lsst_diaObject_z_scienceFluxMeanErr": 596.9348754882812,
+          "lsst_diaObject_z_psfFluxMin": 3473.962646484375,
+          "lsst_diaObject_z_psfFluxMax": 3473.962646484375,
+          "lsst_diaObject_z_psfFluxErrMean": 613.9005126953125,
+          "lsst_diaObject_nDiaSources": 1,
+          "ant_ra": 57.03204245956507,
+          "ant_dec": -49.73624312694643,
+          "ant_mjd": 61004.304272505644,
+          "ant_time_received": 1764100480,
+          "ant_survey": 4,
+          "ant_mag": 22.547937138954403,
+          "ant_maglim": 22.547937138954403,
+          "ant_magerr": 0.19186562452748476,
+          "ant_passband": "z"
+        },
+        "survey": "lsst",
+        "mjd": 61004.304272505644
+      },
+      "relationships": {
+        "thumbnails": {
+          "links": {
+            "related": "http://api.antares.noirlab.edu/v1/alerts/lsst:169650292749500483/thumbnails"
+          }
+        }
+      },
+      "id": "lsst:169650292749500483",
+      "links": {
+        "self": "http://api.antares.noirlab.edu/v1/alerts/lsst:169650292749500483"
+      }
+    }
+  ],
+  "links": {
+    "self": "http://api.antares.noirlab.edu/v1/loci/ANT2025uns34defs98p/alerts"
+  },
+  "meta": {
+    "count": 1
+  }
+}

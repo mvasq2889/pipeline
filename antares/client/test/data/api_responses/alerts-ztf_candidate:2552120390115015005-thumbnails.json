@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "type": "alert_thumbnail",
+            "attributes": {
+                "filemime": "image/png",
+                "thumbnail_type": "difference",
+                "src": "https://storage.googleapis.com/antares-production-ztf-stamps/candid2552120390115015005_pid2552120390115_targ_diff.fits.png",
+                "filename": "candid2552120390115015005_pid2552120390115_targ_diff.fits.png"
+            },
+            "id": "candid2552120390115015005_pid2552120390115_targ_diff.fits.png"
+        },
+        {
+            "type": "alert_thumbnail",
+            "attributes": {
+                "filemime": "image/png",
+                "thumbnail_type": "science",
+                "src": "https://storage.googleapis.com/antares-production-ztf-stamps/candid2552120390115015005_pid2552120390115_targ_sci.fits.png",
+                "filename": "candid2552120390115015005_pid2552120390115_targ_sci.fits.png"
+            },
+            "id": "candid2552120390115015005_pid2552120390115_targ_sci.fits.png"
+        },
+        {
+            "type": "alert_thumbnail",
+            "attributes": {
+                "filemime": "image/png",
+                "thumbnail_type": "template",
+                "src": "https://storage.googleapis.com/antares-production-ztf-stamps/candid2552120390115015005_ref.fits.png",
+                "filename": "candid2552120390115015005_ref.fits.png"
+            },
+            "id": "candid2552120390115015005_ref.fits.png"
+        }
+    ],
+    "links": {
+        "self": "http://api.antares.noirlab.edu/v1/alerts/ztf_candidate:2552120390115015005/thumbnails"
+    },
+    "meta": {
+        "count": 3
+    }
+}

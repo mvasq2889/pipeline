@@ -1,0 +1,71 @@
+{
+   "data": {
+      "type": "locus_listing_statistic",
+      "attributes": {
+         "min_num_measurements": 1,
+         "catalogs": {
+            "gaia_dr2": 25198461,
+            "2mass_psc": 23677783,
+            "allwise": 23184378,
+            "bright_guide_star_cat": 23172882,
+            "sdss_stars": 5667660,
+            "gaia_edr3_distances_bailer_jones": 1548048,
+            "PS1StarGalaxyCatalog": 1530291,
+            "gaia_dr3_variability": 1275308,
+            "vsx": 781855,
+            "asassn_variable_catalog_v2_20190802": 382047,
+            "sdss_gals": 361945,
+            "asassn_variable_catalog": 216166,
+            "galex": 196924,
+            "2mass_xsc": 143868,
+            "nyu_valueadded_gals": 142013,
+            "milliquas": 134683,
+            "ned": 107375,
+            "csdr2": 86020,
+            "RC3": 62929,
+            "veron_agn_qso": 31268,
+            "tns_public_objects": 25965,
+            "xmm3_dr8": 21848,
+            "chandra_master_sources": 6332,
+            "linear_ll": 5516,
+            "sdss_dr7": 2034,
+            "vii_274_bzcat5": 1567,
+            "french_post_starburst_gals": 1499
+         },
+         "tags": {
+            "refitt_newsources_snrcut": 20655013,
+            "lc_feature_extractor": 3566720,
+            "sso_candidates": 1063024,
+            "young_extragalactic_candidate": 1016563,
+            "sso_confirmed": 974415,
+            "siena_mag_coord_cut": 910903,
+            "dimmers": 531174,
+            "extragalactic": 457425,
+            "high_flux_ratio_wrt_nn": 421062,
+            "high_snr": 317864,
+            "matheson_extreme_vpdf": 198649,
+            "desoto_classified": 70763,
+            "high_amplitude_variable_star_candidate": 69696,
+            "nuclear_transient": 63810,
+            "NUTTelA_TAO": 39677,
+            "iso_forest_anomaly_detection": 25741,
+            "high_amplitude_transient_candidate": 25618,
+            "in_m31": 14642,
+            "blue_transient": 11530,
+            "nova_test": 9031,
+            "desi_target": 6312,
+            "dwarf_nova_outburst": 4692,
+            "imhb_candidate": 1249,
+            "LAISS_RFC_AD_filter": 903,
+            "superphot_plus_classified": 478,
+            "soraisam_sublum": 36,
+            "ECL_blue_transient_candidate": 3
+         },
+         "max_num_measurements": 3029
+      },
+      "id": "78007534-a53f-4fef-9f76-af21a0ae0ebb"
+   },
+   "links": {
+      "self": "http://api.antares.noirlab.edu/v1/loci/statistics"
+   }
+}

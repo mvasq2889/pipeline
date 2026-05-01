@@ -1,0 +1,273 @@
+{
+   "data": [
+      {
+         "type": "alert",
+         "relationships": {
+            "thumbnails": {
+               "links": {
+                  "related": "http://api.antares.noirlab.edu/v1/alerts/ztf_upper_limit:ZTF19adcggzn-1075205345615/thumbnails"
+               }
+            }
+         },
+         "attributes": {
+            "properties": {
+               "ztf_jd": 2458829.7053472,
+               "ztf_fid": 2,
+               "ztf_pid": 1075205345615,
+               "ztf_diffmaglim": 18.284799575805664,
+               "ztf_pdiffimfilename": "/ztf/archive/sci/2019/1212/204028/ztf_20191212204028_000247_zr_c15_o_q1_scimrefdiffimg.fits.fz",
+               "ztf_programpi": "Kulkarni",
+               "ztf_programid": 1,
+               "ztf_nid": 1075,
+               "ztf_rcid": 56,
+               "ztf_field": 247,
+               "ztf_magzpsci": 25.89240074157715,
+               "ztf_magzpsciunc": 9.123209747485816e-05,
+               "ztf_magzpscirms": 0.04067650064826012,
+               "ztf_clrcoeff": 0.0917000025510788,
+               "ztf_clrcounc": 0.0001394239952787757,
+               "ztf_rbversion": "t17_f5_c3",
+               "ant_mjd": 58829.205347199924,
+               "ant_time_received": 1596218894,
+               "ant_input_msg_time": 1596206886,
+               "ant_passband": "R",
+               "ant_maglim": 18.284799575805664,
+               "ant_survey": 2
+            },
+            "mjd": 58829.205347199924,
+            "processed_at": "2020-07-31T18:08:19.137000",
+            "grav_wave_events": []
+         },
+         "id": "ztf_upper_limit:ZTF19adcggzn-1075205345615",
+         "links": {
+            "self": "http://api.antares.noirlab.edu/v1/alerts/ztf_upper_limit:ZTF19adcggzn-1075205345615"
+         }
+      },
+      {
+         "type": "alert",
+         "relationships": {
+            "thumbnails": {
+               "links": {
+                  "related": "http://api.antares.noirlab.edu/v1/alerts/ztf_upper_limit:ZTF19adcggzn-1083106315615/thumbnails"
+               }
+            }
+         },
+         "attributes": {
+            "properties": {
+               "ztf_jd": 2458837.6063194,
+               "ztf_fid": 1,
+               "ztf_pid": 1083106315615,
+               "ztf_diffmaglim": 19.950700759887695,
+               "ztf_pdiffimfilename": "/ztf/archive/sci/2019/1220/106157/ztf_20191220106157_000247_zg_c15_o_q1_scimrefdiffimg.fits.fz",
+               "ztf_programpi": "Kulkarni",
+               "ztf_programid": 1,
+               "ztf_nid": 1083,
+               "ztf_rcid": 56,
+               "ztf_field": 247,
+               "ztf_magzpsci": 26.235599517822266,
+               "ztf_magzpsciunc": 5.129280179971829e-05,
+               "ztf_magzpscirms": 0.039199501276016235,
+               "ztf_clrcoeff": -0.041787099093198776,
+               "ztf_clrcounc": 7.900539640104398e-05,
+               "ztf_rbversion": "t17_f5_c3",
+               "ant_mjd": 58837.106319400016,
+               "ant_time_received": 1596218894,
+               "ant_input_msg_time": 1596206886,
+               "ant_passband": "g",
+               "ant_maglim": 19.950700759887695,
+               "ant_survey": 2
+            },
+            "mjd": 58837.106319400016,
+            "processed_at": "2020-07-31T18:08:19.137000",
+            "grav_wave_events": []
+         },
+         "id": "ztf_upper_limit:ZTF19adcggzn-1083106315615",
+         "links": {
+            "self": "http://api.antares.noirlab.edu/v1/alerts/ztf_upper_limit:ZTF19adcggzn-1083106315615"
+         }
+      },
+      {
+         "type": "alert",
+         "relationships": {
+            "thumbnails": {
+               "links": {
+                  "related": "http://api.antares.noirlab.edu/v1/alerts/ztf_upper_limit:ZTF19adcggzn-1086091525615/thumbnails"
+               }
+            }
+         },
+         "attributes": {
+            "properties": {
+               "ztf_jd": 2458840.5915278,
+               "ztf_fid": 2,
+               "ztf_pid": 1086091525615,
+               "ztf_diffmaglim": 16.523000717163086,
+               "ztf_pdiffimfilename": "/ztf/archive/sci/2019/1223/091308/ztf_20191223091308_000247_zr_c15_o_q1_scimrefdiffimg.fits.fz",
+               "ztf_programpi": "Kulkarni",
+               "ztf_programid": 1,
+               "ztf_nid": 1086,
+               "ztf_rcid": 56,
+               "ztf_field": 247,
+               "ztf_magzpsci": 23.31399917602539,
+               "ztf_magzpsciunc": 0.0014931800542399287,
+               "ztf_magzpscirms": 0.05928749963641167,
+               "ztf_clrcoeff": 0.05724160000681877,
+               "ztf_clrcounc": 0.002182659925892949,
+               "ztf_rbversion": "t17_f5_c3",
+               "ant_mjd": 58840.091527800076,
+               "ant_time_received": 1596218894,
+               "ant_input_msg_time": 1596206886,
+               "ant_passband": "R",
+               "ant_maglim": 16.523000717163086,
+               "ant_survey": 2
+            },
+            "mjd": 58840.091527800076,
+            "processed_at": "2020-07-31T18:08:19.137000",
+            "grav_wave_events": []
+         },
+         "id": "ztf_upper_limit:ZTF19adcggzn-1086091525615",
+         "links": {
+            "self": "http://api.antares.noirlab.edu/v1/alerts/ztf_upper_limit:ZTF19adcggzn-1086091525615"
+         }
+      },
+      {
+         "type": "alert",
+         "relationships": {
+            "thumbnails": {
+               "links": {
+                  "related": "http://api.antares.noirlab.edu/v1/alerts/ztf_candidate:1093074825615015005/thumbnails"
+               }
+            }
+         },
+         "attributes": {
+            "properties": {
+               "ztf_jd": 2458847.5748264,
+               "ztf_fid": 2,
+               "ztf_pid": 1093074825615,
+               "ztf_diffmaglim": 19.58411407470703,
+               "ztf_pdiffimfilename": "ztf_20191230074363_000247_zr_c15_o_q1_scimrefdiffimg.fits",
+               "ztf_programpi": "Kulkarni",
+               "ztf_programid": 1,
+               "ztf_candid": 1093074825615015005,
+               "ztf_isdiffpos": "t",
+               "ztf_tblid": 5,
+               "ztf_nid": 1093,
+               "ztf_rcid": 56,
+               "ztf_field": 247,
+               "ztf_xpos": 2992.93359375,
+               "ztf_ypos": 1801.892822265625,
+               "ztf_ra": 14.9918748,
+               "ztf_dec": -21.0084085,
+               "ztf_magpsf": 19.06861686706543,
+               "ztf_sigmapsf": 0.18958990275859833,
+               "ztf_chipsf": 4.658644199371338,
+               "ztf_magap": 19.275699615478516,
+               "ztf_sigmagap": 0.26829999685287476,
+               "ztf_distnr": 8.873112678527832,
+               "ztf_magnr": 22.839000701904297,
+               "ztf_sigmagnr": 0.33500000834465027,
+               "ztf_chinr": 0.5230000019073486,
+               "ztf_sharpnr": -0.3569999933242798,
+               "ztf_sky": 1.155892014503479,
+               "ztf_magdiff": 0.20708400011062622,
+               "ztf_fwhm": 1.7899999618530273,
+               "ztf_classtar": 0.972000002861023,
+               "ztf_mindtoedge": 79.56649780273438,
+               "ztf_magfromlim": 0.30841338634490967,
+               "ztf_seeratio": 1.52637779712677,
+               "ztf_aimage": 0.4740000069141388,
+               "ztf_bimage": 0.33500000834465027,
+               "ztf_aimagerat": 0.264804482460022,
+               "ztf_bimagerat": 0.18715083599090576,
+               "ztf_elong": 1.4149253368377686,
+               "ztf_nneg": 8,
+               "ztf_nbad": 0,
+               "ztf_rb": 0.21571429073810577,
+               "ztf_ssdistnr": -999.0,
+               "ztf_ssmagnr": -999.0,
+               "ztf_ssnamenr": "null",
+               "ztf_sumrat": 0.5737817287445068,
+               "ztf_magapbig": 19.015199661254883,
+               "ztf_sigmagapbig": 0.2709999978542328,
+               "ztf_ranr": 14.9903597,
+               "ztf_decnr": -21.0063526,
+               "ztf_sgmag1": 21.777799606323242,
+               "ztf_srmag1": 21.977500915527344,
+               "ztf_simag1": 21.292600631713867,
+               "ztf_szmag1": 20.962099075317383,
+               "ztf_sgscore1": 0.02118059992790222,
+               "ztf_distpsnr1": 26.761798858642578,
+               "ztf_ndethist": 1,
+               "ztf_ncovhist": 131,
+               "ztf_jdstarthist": 2458847.5748264,
+               "ztf_jdendhist": 2458847.5748264,
+               "ztf_scorr": 14.8059244155884,
+               "ztf_tooflag": 0,
+               "ztf_objectidps1": 82780149939691734,
+               "ztf_objectidps2": 82790149972417755,
+               "ztf_sgmag2": 21.771400451660156,
+               "ztf_srmag2": 21.55900001525879,
+               "ztf_simag2": 21.378000259399414,
+               "ztf_szmag2": -999.0,
+               "ztf_sgscore2": 0.7199640274047852,
+               "ztf_distpsnr2": 28.826515197753906,
+               "ztf_objectidps3": -999,
+               "ztf_sgmag3": -999.0,
+               "ztf_srmag3": -999.0,
+               "ztf_simag3": -999.0,
+               "ztf_szmag3": -999.0,
+               "ztf_sgscore3": -999.0,
+               "ztf_distpsnr3": -999.0,
+               "ztf_nmtchps": 2,
+               "ztf_rfid": 247120256,
+               "ztf_jdstartref": 2458336.959213,
+               "ztf_jdendref": 2458368.918588,
+               "ztf_nframesref": 15,
+               "ztf_rbversion": "t17_f5_c3",
+               "ztf_dsnrms": 16.697011947631836,
+               "ztf_ssnrms": 17.819747924804688,
+               "ztf_dsdiff": -1.1227359771728516,
+               "ztf_magzpsci": 26.147615432739258,
+               "ztf_magzpsciunc": 3.219820064259693e-05,
+               "ztf_magzpscirms": 0.04422900080680847,
+               "ztf_nmatches": 212,
+               "ztf_clrcoeff": 0.09440100193023682,
+               "ztf_clrcounc": 4.360399907454848e-05,
+               "ztf_zpclrcov": -3.463000030023977e-05,
+               "ztf_zpmed": 26.219499588012695,
+               "ztf_clrmed": 0.824999988079071,
+               "ztf_clrrms": 0.3282470107078552,
+               "ztf_neargaia": 37.43417739868164,
+               "ztf_neargaiabright": 51.13732147216797,
+               "ztf_maggaia": 20.066198348999023,
+               "ztf_maggaiabright": 13.163719177246094,
+               "ztf_exptime": 30.0,
+               "ztf_drb": 0.027711469680070877,
+               "ztf_drbversion": "d6_m7",
+               "ant_ra": 14.9918748,
+               "ant_dec": -21.0084085,
+               "ant_mjd": 58847.074826399796,
+               "ant_time_received": 1596218894,
+               "ant_input_msg_time": 1596206886,
+               "ant_mag": 19.06861686706543,
+               "ant_magerr": 0.18958990275859833,
+               "ant_passband": "R",
+               "ant_maglim": 19.58411407470703,
+               "ant_survey": 1
+            },
+            "mjd": 58847.074826399796,
+            "processed_at": "2020-07-31T18:08:19.137000",
+            "grav_wave_events": []
+         },
+         "id": "ztf_candidate:1093074825615015005",
+         "links": {
+            "self": "http://api.antares.noirlab.edu/v1/alerts/ztf_candidate:1093074825615015005"
+         }
+      }
+   ],
+   "links": {
+      "self": "http://api.antares.noirlab.edu/v1/loci/ANT2019ae/alerts"
+   },
+   "meta": {
+      "count": 4
+   }
+}

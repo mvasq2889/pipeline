@@ -1,0 +1,9 @@
+{
+    "data": [],
+    "links": {
+        "self": "http://api.antares.noirlab.edu/v1/alerts/key_that_doesnt_exist/thumbnails"
+    },
+    "meta": {
+        "count": 0
+    }
+}

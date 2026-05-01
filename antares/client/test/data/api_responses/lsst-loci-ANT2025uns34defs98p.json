@@ -1,0 +1,63 @@
+{
+    "data": [
+        {
+            "type": "locus_listing",
+            "attributes": {
+                "grav_wave_events": [
+                    "S251116ab",
+                    "S251116dy",
+                    "S251116ee",
+                    "S251117m",
+                    "S251117ac",
+                    "S251117bc",
+                    "S251117bq",
+                    "S251117cv",
+                    "S251118ab",
+                    "S251117dq"
+                ],
+                "ra": 57.03204245956506,
+                "properties": {
+                    "num_alerts": 1,
+                    "num_mag_values": 1,
+                    "brightest_alert_id": "lsst:169650292749500483",
+                    "brightest_alert_magnitude": 22.547937138954403,
+                    "brightest_alert_observation_time": 61004.304272505644,
+                    "newest_alert_id": "lsst:169650292749500483",
+                    "newest_alert_magnitude": 22.547937138954403,
+                    "newest_alert_observation_time": 61004.304272505644,
+                    "oldest_alert_id": "lsst:169650292749500483",
+                    "oldest_alert_magnitude": 22.547937138954403,
+                    "oldest_alert_observation_time": 61004.304272505644,
+                    "is_corrected": "false",
+                    "survey": {
+                        "lsst": {
+                            "dia_object_id": [
+                                "169650292749500483"
+                            ]
+                        }
+                    }
+                },
+                "dec": -49.73624312694645,
+                "tags": [],
+                "catalogs": []
+            },
+            "relationships": {
+                "alerts": {
+                    "links": {
+                        "related": "http://api.antares.noirlab.edu/v1/loci/ANT2025uns34defs98p/alerts"
+                    }
+                }
+            },
+            "meta": {
+                "newest_thumbnails": []
+            },
+            "id": "ANT2025uns34defs98p"
+        }
+    ],
+    "links": {
+        "self": "http://api.antares.noirlab.edu/v1/loci?sort=-properties.newest_alert_observation_time&elasticsearch_query%5Blocus_listing%5D=%7B%22query%22%3A+%7B%22bool%22%3A+%7B%22filter%22%3A+%7B%22term%22%3A+%7B%22properties.survey.lsst.dia_object_id%22%3A+%22169650292749500483%22%7D%7D%7D%7D%7D"
+    },
+    "meta": {
+        "count": 1
+    }
+}

@@ -1,0 +1,179 @@
+{
+    "data": [
+        {
+            "type": "locus_listing",
+            "attributes": {
+                "htm16": 60774942802,
+                "ra": 151.55763657755867,
+                "properties": {
+                    "num_alerts": 1,
+                    "num_mag_values": 1,
+                    "brightest_alert_id": "lsst:169931762314510409",
+                    "brightest_alert_magnitude": 20.983033267603204,
+                    "brightest_alert_observation_time": 61068.31206891922,
+                    "newest_alert_id": "lsst:169931762314510409",
+                    "newest_alert_magnitude": 20.983033267603204,
+                    "newest_alert_observation_time": 61068.31206891922,
+                    "oldest_alert_id": "lsst:169931762314510409",
+                    "oldest_alert_magnitude": 20.983033267603204,
+                    "oldest_alert_observation_time": 61068.31206891922,
+                    "is_corrected": "true",
+                    "survey": {
+                        "ztf": {
+                            "id": [],
+                            "rcid": [],
+                            "field": [],
+                            "ssnamenr": []
+                        },
+                        "lsst": {
+                            "dia_object_id": [],
+                            "ss_object_id": [
+                                "21163641725858384"
+                            ]
+                        }
+                    }
+                },
+                "catalogs": [],
+                "dec": 1.4409591455142134,
+                "grav_wave_events": [],
+                "tags": [
+                    "test_dev_lsst"
+                ]
+            },
+            "id": "ANT2026c7l4z1c07rwn",
+            "meta": {
+                "newest_thumbnails": [
+                    {
+                        "data": {
+                            "type": "alert_thumbnail",
+                            "id": "candid169931762314510409_pid1699317623145_targ_diff.fits.png",
+                            "attributes": {
+                                "thumbnail_type": "difference",
+                                "filename": "candid169931762314510409_pid1699317623145_targ_diff.fits.png",
+                                "filemime": "image/png",
+                                "src": ""
+                            }
+                        }
+                    },
+                    {
+                        "data": {
+                            "type": "alert_thumbnail",
+                            "id": "candid169931762314510409_pid1699317623145_targ_sci.fits.png",
+                            "attributes": {
+                                "thumbnail_type": "science",
+                                "filename": "candid169931762314510409_pid1699317623145_targ_sci.fits.png",
+                                "filemime": "image/png",
+                                "src": ""
+                            }
+                        }
+                    },
+                    {
+                        "data": {
+                            "type": "alert_thumbnail",
+                            "id": "candid169931762314510409_ref.fits.png",
+                            "attributes": {
+                                "thumbnail_type": "template",
+                                "filename": "candid169931762314510409_ref.fits.png",
+                                "filemime": "image/png",
+                                "src": ""
+                            }
+                        }
+                    }
+                ]
+            },
+            "relationships": {
+                "alerts": {
+                    "links": {
+                        "related": "http://api.antares.noirlab.edu/v1/loci/ANT2026c7l4z1c07rwn/alerts"
+                    }
+                }
+            }
+        },
+        {
+            "type": "locus_listing",
+            "id": "ANT2026ryw0tsp2rjgf",
+            "attributes": {
+                "ra": 151.56237117603638,
+                "properties": {
+                    "num_alerts": 1,
+                    "num_mag_values": 1,
+                    "brightest_alert_id": "lsst:169931754798317652",
+                    "brightest_alert_magnitude": 21.12804504498336,
+                    "brightest_alert_observation_time": 61068.283537638286,
+                    "newest_alert_id": "lsst:169931754798317652",
+                    "newest_alert_magnitude": 21.12804504498336,
+                    "newest_alert_observation_time": 61068.283537638286,
+                    "oldest_alert_id": "lsst:169931754798317652",
+                    "oldest_alert_magnitude": 21.12804504498336,
+                    "oldest_alert_observation_time": 61068.283537638286,
+                    "is_corrected": "true",
+                    "survey": {
+                        "lsst": {
+                            "dia_object_id": [],
+                            "ss_object_id": [
+                                "21163641725858384"
+                            ]
+                        }
+                    }
+                },
+                "catalogs": [],
+                "dec": 1.4393964270636133,
+                "grav_wave_events": [],
+                "tags": []
+            },
+            "meta": {
+                "newest_thumbnails": [
+                    {
+                        "data": {
+                            "type": "alert_thumbnail",
+                            "id": "candid169931754798317652_pid1699317547983_targ_diff.fits.png",
+                            "attributes": {
+                                "thumbnail_type": "difference",
+                                "filename": "candid169931754798317652_pid1699317547983_targ_diff.fits.png",
+                                "filemime": "image/png",
+                                "src": ""
+                            }
+                        }
+                    },
+                    {
+                        "data": {
+                            "type": "alert_thumbnail",
+                            "id": "candid169931754798317652_pid1699317547983_targ_sci.fits.png",
+                            "attributes": {
+                                "thumbnail_type": "science",
+                                "filename": "candid169931754798317652_pid1699317547983_targ_sci.fits.png",
+                                "filemime": "image/png",
+                                "src": ""
+                            }
+                        }
+                    },
+                    {
+                        "data": {
+                            "type": "alert_thumbnail",
+                            "id": "candid169931754798317652_ref.fits.png",
+                            "attributes": {
+                                "thumbnail_type": "template",
+                                "filename": "candid169931754798317652_ref.fits.png",
+                                "filemime": "image/png",
+                                "src": ""
+                            }
+                        }
+                    }
+                ]
+            },
+            "relationships": {
+                "alerts": {
+                    "links": {
+                        "related": "http://api.antares.noirlab.edu/v1/loci/ANT2026ryw0tsp2rjgf/alerts"
+                    }
+                }
+            }
+        }
+    ],
+    "links": {
+        "self": "http://api.antares.noirlab.edu/v1/loci?sort=-properties.newest_alert_observation_time&elasticsearch_query%5Blocus_listing%5D=%7B%22query%22%3A+%7B%22bool%22%3A+%7B%22filter%22%3A+%7B%22term%22%3A+%7B%22properties.survey.lsst.ss_object_id%22%3A+%2221163641725858384%22%7D%7D%7D%7D%7D"
+    },
+    "meta": {
+        "count": 2
+    }
+}

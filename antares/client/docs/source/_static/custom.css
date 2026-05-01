@@ -1,0 +1,32 @@
+.logo {
+  margin-bottom: 1em;
+}
+
+body {
+  font-size: 16px;
+}
+
+div.document {
+  margin: 10px auto 0 auto;
+}
+
+div.body {
+  min-width: initial;
+  max-width: initial;
+}
+
+div.sphinxsidebarwrapper {
+  padding: 45px 10px;
+}
+
+div.sphinxsidebar ul li.toctree-l1 > a {
+  font-size: 14px;
+}
+
+div.sphinxsidebar ul li.toctree-l2 > a {
+  font-size: 100%;
+}
+
+.related.bottom {
+  margin: 20px 0 0 0;
+}

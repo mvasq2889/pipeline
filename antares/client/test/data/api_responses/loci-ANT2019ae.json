@@ -1,0 +1,54 @@
+{
+   "data": {
+      "type": "locus",
+      "attributes": {
+         "dec": -21.0084085,
+         "catalogs": [],
+         "lightcurve": "time,alert_id,ant_mjd,ant_survey,ant_ra,ant_dec,ant_passband,ant_mag,ant_magerr,ant_maglim,ant_mag_corrected,ant_magerr_corrected\n2019-12-12 04:55:41.998073,ztf_upper_limit:ZTF19adcggzn-1075205345615,58829.205347199924,2,,,R,,,18.284799575805664,,\n2019-12-20 02:33:05.996161,ztf_upper_limit:ZTF19adcggzn-1083106315615,58837.106319400016,2,,,g,,,19.950700759887695,,\n2019-12-23 02:11:48.001927,ztf_upper_limit:ZTF19adcggzn-1086091525615,58840.091527800076,2,,,R,,,16.523000717163086,,\n2019-12-30 01:47:45.000942,ztf_candidate:1093074825615015005,58847.074826399796,1,14.9918748,-21.0084085,R,19.06861686706543,0.18958990275859833,19.58411407470703,,\n",
+         "ra": 14.9918748,
+         "properties": {
+            "ztf_object_id": "ZTF19adcggzn",
+            "ztf_ssnamenr": "null",
+            "num_alerts": 4,
+            "num_mag_values": 1,
+            "oldest_alert_id": "ztf_candidate:1093074825615015005",
+            "oldest_alert_magnitude": 19.06861686706543,
+            "oldest_alert_observation_time": 58847.074826399796,
+            "newest_alert_id": "ztf_candidate:1093074825615015005",
+            "newest_alert_magnitude": 19.06861686706543,
+            "newest_alert_observation_time": 58847.074826399796,
+            "brightest_alert_id": "ztf_candidate:1093074825615015005",
+            "brightest_alert_magnitude": 19.06861686706543,
+            "brightest_alert_observation_time": 58847.074826399796
+         },
+         "grav_wave_events": [],
+         "tags": []
+      },
+      "relationships": {
+         "alerts": {
+            "links": {
+               "related": "http://api.antares.noirlab.edu/v1/loci/ANT2019ae/alerts"
+            }
+         }
+      },
+      "id": "ANT2019ae",
+      "meta": {
+         "coordinates": {
+            "icrs": {
+               "ra": 14.9918748,
+               "dec": -21.0084085
+            },
+            "galactic": {
+               "l": 141.02547060190676,
+               "b": -83.57835813897027
+            }
+         }
+      },
+      "links": {
+         "self": "http://api.antares.noirlab.edu/v1/loci/ANT2019ae"
+      }
+   },
+   "links": {
+      "self": "http://api.antares.noirlab.edu/v1/loci/ANT2019ae"
+   }
+}

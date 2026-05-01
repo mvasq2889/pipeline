@@ -1,0 +1,90 @@
+{
+   "data": {
+      "type": "locus",
+      "meta": {
+         "coordinates": {
+            "icrs": {
+               "ra": 47.70803399999999,
+               "dec": -4.756000299999997
+            },
+            "galactic": {
+               "l": 185.2187721938648,
+               "b": -49.96701291885807
+            }
+         }
+      },
+      "attributes": {
+         "dec": -4.756000299999997,
+         "properties": {
+            "num_alerts": 17,
+            "num_mag_values": 1,
+            "brightest_alert_id": "ztf_candidate:2446525941315015008",
+            "brightest_alert_magnitude": 17.15032958984375,
+            "brightest_alert_observation_time": 60200.52594910003,
+            "newest_alert_id": "ztf_candidate:2446525941315015008",
+            "newest_alert_magnitude": 17.15032958984375,
+            "newest_alert_observation_time": 60200.52594910003,
+            "oldest_alert_id": "ztf_candidate:2446525941315015008",
+            "oldest_alert_magnitude": 17.15032958984375,
+            "oldest_alert_observation_time": 60200.52594910003,
+            "is_corrected": "false",
+            "ztf_object_id": "ZTF23abcyujh",
+            "ztf_ssnamenr": "null",
+            "survey": {
+               "ztf": {
+                  "id": [
+                     "ZTF23abcyujh"
+                  ],
+                  "rcid": [
+                     13
+                  ],
+                  "field": [
+                     403
+                  ],
+                  "ssnamenr": [
+                     "null"
+                  ]
+               }
+            }
+         },
+         "ra": 47.70803399999999,
+         "lightcurve": "time,alert_id,ant_mjd,ant_survey,ant_ra,ant_dec,ant_passband,ant_mag,ant_magerr,ant_maglim,ant_mag_corrected,ant_magerr_corrected,ant_magulim_corrected,ant_magllim_corrected\n2023-08-15 10:04:46.997746,ztf_upper_limit:ZTF23abcyujh-2417419981315,60171.41998839984,2,,,R,,,20.148099899291992,,,,\n2023-08-15 11:30:26.000650,ztf_upper_limit:ZTF23abcyujh-2417479461315,60171.47946760012,2,,,g,,,20.631900787353516,,,,\n2023-08-18 10:35:48.001935,ztf_upper_limit:ZTF23abcyujh-2420441521315,60174.44152780017,2,,,g,,,20.25029945373535,,,,\n2023-08-18 11:06:24.001914,ztf_upper_limit:ZTF23abcyujh-2420462771315,60174.46277779993,2,,,R,,,20.185199737548828,,,,\n2023-08-26 10:30:25.004169,ztf_upper_limit:ZTF23abcyujh-2428437781315,60182.43778940011,2,,,g,,,20.44849967956543,,,,\n2023-08-26 11:05:34.995823,ztf_upper_limit:ZTF23abcyujh-2428462211315,60182.4622105998,2,,,R,,,20.321300506591797,,,,\n2023-08-28 10:35:07.998732,ztf_upper_limit:ZTF23abcyujh-2430441061315,60184.441064800136,2,,,g,,,20.417200088500977,,,,\n2023-08-28 11:29:41.003509,ztf_upper_limit:ZTF23abcyujh-2430478941315,60184.47894679988,2,,,R,,,20.202499389648438,,,,\n2023-08-30 10:23:40.997751,ztf_upper_limit:ZTF23abcyujh-2432433111315,60186.43311339989,2,,,R,,,19.440500259399414,,,,\n2023-08-30 11:33:17.997102,ztf_upper_limit:ZTF23abcyujh-2432481451315,60186.48145829979,2,,,g,,,19.486499786376953,,,,\n2023-09-04 10:06:57.997438,ztf_upper_limit:ZTF23abcyujh-2437421501315,60191.42150459997,2,,,g,,,19.578800201416016,,,,\n2023-09-07 10:34:04.995855,ztf_upper_limit:ZTF23abcyujh-2440440331315,60194.44033560017,2,,,g,,,20.321399688720703,,,,\n2023-09-07 11:22:01.001297,ztf_upper_limit:ZTF23abcyujh-2440473621315,60194.4736227002,2,,,R,,,19.951099395751953,,,,\n2023-09-09 10:10:56.003509,ztf_upper_limit:ZTF23abcyujh-2442424251315,60196.42425929988,2,,,R,,,20.226699829101562,,,,\n2023-09-09 11:15:01.995845,ztf_upper_limit:ZTF23abcyujh-2442468771315,60196.46877310006,2,,,g,,,20.46190071105957,,,,\n2023-09-13 11:13:45.998390,ztf_upper_limit:ZTF23abcyujh-2446467891315,60200.46789349988,2,,,R,,,20.228900909423828,,,,\n2023-09-13 12:37:22.002243,ztf_candidate:2446525941315015008,60200.52594910003,1,47.708034,-4.7560003,g,17.15032958984375,0.06079396978020668,19.50885581970215,,,,\n",
+         "grav_wave_events": [
+            "S230903aw",
+            "S230903bk",
+            "S230906b",
+            "S230907ap",
+            "S230907az",
+            "S230907bi",
+            "S230907bs",
+            "S230908al",
+            "S230909o",
+            "S230910ap",
+            "S230910ay",
+            "S230911ab",
+            "S230911ae",
+            "S230911ar",
+            "S230912y",
+            "S230913v"
+         ],
+         "catalogs": [],
+         "tags": [
+            "refitt_newsources_snrcut"
+         ]
+      },
+      "relationships": {
+         "alerts": {
+            "links": {
+               "related": "http://api.antares.noirlab.edu/v1/loci/ANT2023mtexfpy1vpo1/alerts"
+            }
+         }
+      },
+      "id": "ANT2023mtexfpy1vpo1",
+      "links": {
+         "self": "http://api.antares.noirlab.edu/v1/loci/ANT2023mtexfpy1vpo1"
+      }
+   },
+   "links": {
+      "self": "http://api.antares.noirlab.edu/v1/loci/ANT2023mtexfpy1vpo1"
+   }
+}
